@@ -1,0 +1,13 @@
+{
+  "concurrentRate": "0",
+  "contentType": "audio/webm; codec=opus",
+  "enabledCookieJar": false,
+  "header": "{\"Content-Type\":\"text/plain\",\"Authorization\":\"Bearer11 \",\"Format\":\"webm-24khz-16bit-mono-opus\"}",
+  "id": 1661602344237,
+  "lastUpdateTime": 1662020331423,
+  "loginCheckJs": "",
+  "loginUi": "",
+  "loginUrl": "",
+  "name": "微软|晓晓（tts.quickso.cn）",
+  "url": "https://tts.quickso.cn/api/ra,{\"method\":\"POST\",\"body\":\"<speak xmlns=\\\"http://www.w3.org/2001/10/synthesis\\\" xmlns:mstts=\\\"http://www.w3.org/2001/mstts\\\" xmlns:emo=\\\"http://www.w3.org/2009/10/emotionml\\\" version=\\\"1.0\\\" xml:lang=\\\"en-US\\\"><voice name=\\\"zh-CN-XiaoxiaoNeural\\\"><prosody rate=\\\"{{(speakSpeed - 10) * 2}}%\\\" pitch=\\\"+0Hz\\\">{{String(speakText).replace(/&/g, '&amp;').replace(/\\\"/g, '&quot;').replace(/'/g, '&apos;').replace(/</g, '&lt;').replace(/>/g, '&gt;')}}</prosody></voice></speak>\"}"
+}
