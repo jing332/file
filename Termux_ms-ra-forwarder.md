@@ -40,5 +40,9 @@ Web访问地址: [http://localhost:3000](http://localhost:3000)
 
 `echo 'alias tts="npm start -prefix ~/ms-ra-forwarder"'>>$PREFIX/etc/bash.bashrc`
 
-下次打开Termux使用命令 `tts` 即可一键运行。
+下次打开Termux使用命令
+
+`tts`
+
+即可一键运行。
 
